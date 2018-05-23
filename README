@@ -1,0 +1,25 @@
+Features specified in the handout that work:
+-IO Redirection:          
+-Pipes:                  
+-Background and Zombie:   
+-Environment:             
+-Words and special chars: 
+-cd:                      
+-Wildcarding:             (Partially)
+-Quotes and escape chars: 
+-Ctrl-C:                  
+-subshell:               
+-tilde expansion:        
+-Edit Mode (Arrows and Home/End)
+-History
+-Makefile
+
+
+Features specified in the handout that do not work:
+-Robustness
+-Wildcarding (Part of)      
+-Delete in edit mode     
+
+
+Extra features implemented
+-Debug printing can be enabled in some of the files (that otherwise disallow scoring) if the debug is turned on at the top.
