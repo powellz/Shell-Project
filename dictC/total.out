@@ -1,0 +1,24 @@
+
+
+-------------------------------------------------
+CS240: lab7. zhao451   
+Mon Dec  8 18:51:30 EST 2014
+-------------------------------------------------
+TreeDictionaryTest test1            : 6   of 6  
+TreeDictionaryTest test2            : 6   of 6  
+TreeDictionaryTest test3            : 6   of 6  
+TreeDictionaryTest test4            : 6   of 6  
+TreeDictionaryTest test5            : 6   of 6  
+TreeDictionaryTest test6            : 6   of 6  
+TreeDictionaryTest test7            : 6   of 6  
+TreeDictionaryTest test8            : 6   of 6  
+TreeDictionaryTest test9            : 6   of 6  
+WordIteratorTest test1              : 8   of 8  
+WordIteratorTest test2              : 6   of 6  
+WordIteratorTest test3              : 8   of 8  
+WordCounter hamlet-short.txt        : 8   of 8  
+WordCounter hamlet-long.txt         : 8   of 8  
+WordCounter cosmos.txt              : 8   of 8  
+-------------------------------------------------
+CS240: lab7. zhao451 Mon Dec 8 18:51:30 EST 2014  Total:  100 of 100
+
